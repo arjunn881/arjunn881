@@ -1,5 +1,5 @@
 
-<div style="display:flex; align-items:center; justify-content:center">
+<div style="margin: 0 auto;">
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/front-end-developer-4830933-4041850.png" style="height:400px; width:400px;"  alt="profile" />
 
 <h1 style="font-size:20px;"> HI ! I'M Arjuna </h1>
