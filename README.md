@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/front-end-developer-4830933-4041850.png" style="height:400px; width:400px; position:absolute; left:35%;"  alt="profile" />
+
 
 <h1 style="font-size:20px;"> HI ! I'M Arjuna </h1>
 </div>
