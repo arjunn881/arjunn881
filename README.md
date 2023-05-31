@@ -15,7 +15,7 @@ I'm an Aspiring Full Stack Developer from India.
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me arjunn881@gmail.com
 
-I am a skilled and motivated Full Stack Web Developer with expertise in HTML, CSS, JavaScript, jQuery, ReactJS, React Router, MongoDB, Node.js, and Express.js. With my strong technical background and problem-solving skills, I am capable of designing and developing scalable and efficient web applications from scratch.
+I am an aspiring Full Stack Web Developer with expertise in HTML, CSS, JavaScript, jQuery, ReactJS, React Router, MongoDB, Node.js, and Express.js. With my strong technical background and problem-solving skills, I am capable of designing and developing scalable and efficient web applications from scratch.
 
 Key skills:
 
