@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React js**
 
-- 📫 How to reach me **nayakarjuna24@gmail.com**
+- 📫 How to reach me **arjunn881@gmail.com**
 
 - ⚡ Fun fact **musician**
 
